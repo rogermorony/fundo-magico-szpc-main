@@ -2,7 +2,7 @@
 
 **Fundo Mágico** é um projeto web inspirado em universos de RPG, onde o usuário pode **descrever cenários como se fosse lançar feitiços** ✨ e gerar backgrounds únicos através da imaginação e da IA.
 
-👉 [Clique aqui para acessar o site](https://rogermorony.github.io/fundo-magico-szpc/) ✨
+👉 [Clique aqui para acessar o site](https://rogermorony.github.io/fundo-magico-szpc-main/) ✨
 ---
 
 ## 🎯 Objetivo
